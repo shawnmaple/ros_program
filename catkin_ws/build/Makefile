@@ -292,7 +292,7 @@ sensor_msgs_generate_messages_lisp: cmake_check_build_system
 
 # fast build rule for target.
 sensor_msgs_generate_messages_lisp/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make LMS1xx/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make lmsxx/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build
 .PHONY : sensor_msgs_generate_messages_lisp/fast
 
 #=============================================================================
@@ -305,7 +305,7 @@ sensor_msgs_generate_messages_cpp: cmake_check_build_system
 
 # fast build rule for target.
 sensor_msgs_generate_messages_cpp/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make LMS1xx/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make lmsxx/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build
 .PHONY : sensor_msgs_generate_messages_cpp/fast
 
 #=============================================================================
@@ -318,7 +318,7 @@ std_msgs_generate_messages_lisp: cmake_check_build_system
 
 # fast build rule for target.
 std_msgs_generate_messages_lisp/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/std_msgs_generate_messages_lisp.dir/build.make LMS1xx/CMakeFiles/std_msgs_generate_messages_lisp.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/std_msgs_generate_messages_lisp.dir/build.make lmsxx/CMakeFiles/std_msgs_generate_messages_lisp.dir/build
 .PHONY : std_msgs_generate_messages_lisp/fast
 
 #=============================================================================
@@ -331,7 +331,7 @@ geometry_msgs_generate_messages_lisp: cmake_check_build_system
 
 # fast build rule for target.
 geometry_msgs_generate_messages_lisp/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/build.make LMS1xx/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/build.make lmsxx/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/build
 .PHONY : geometry_msgs_generate_messages_lisp/fast
 
 #=============================================================================
@@ -344,7 +344,7 @@ std_msgs_generate_messages_eus: cmake_check_build_system
 
 # fast build rule for target.
 std_msgs_generate_messages_eus/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/std_msgs_generate_messages_eus.dir/build.make LMS1xx/CMakeFiles/std_msgs_generate_messages_eus.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/std_msgs_generate_messages_eus.dir/build.make lmsxx/CMakeFiles/std_msgs_generate_messages_eus.dir/build
 .PHONY : std_msgs_generate_messages_eus/fast
 
 #=============================================================================
@@ -357,7 +357,7 @@ roslint_lms1xx: cmake_check_build_system
 
 # fast build rule for target.
 roslint_lms1xx/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/roslint_lms1xx.dir/build.make LMS1xx/CMakeFiles/roslint_lms1xx.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/roslint_lms1xx.dir/build.make lmsxx/CMakeFiles/roslint_lms1xx.dir/build
 .PHONY : roslint_lms1xx/fast
 
 #=============================================================================
@@ -370,7 +370,7 @@ rosgraph_msgs_generate_messages_py: cmake_check_build_system
 
 # fast build rule for target.
 rosgraph_msgs_generate_messages_py/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build.make LMS1xx/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build.make lmsxx/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build
 .PHONY : rosgraph_msgs_generate_messages_py/fast
 
 #=============================================================================
@@ -383,7 +383,7 @@ roscpp_generate_messages_nodejs: cmake_check_build_system
 
 # fast build rule for target.
 roscpp_generate_messages_nodejs/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/roscpp_generate_messages_nodejs.dir/build.make LMS1xx/CMakeFiles/roscpp_generate_messages_nodejs.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/roscpp_generate_messages_nodejs.dir/build.make lmsxx/CMakeFiles/roscpp_generate_messages_nodejs.dir/build
 .PHONY : roscpp_generate_messages_nodejs/fast
 
 #=============================================================================
@@ -396,7 +396,7 @@ rosgraph_msgs_generate_messages_lisp: cmake_check_build_system
 
 # fast build rule for target.
 rosgraph_msgs_generate_messages_lisp/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build.make LMS1xx/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build.make lmsxx/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build
 .PHONY : rosgraph_msgs_generate_messages_lisp/fast
 
 #=============================================================================
@@ -409,7 +409,7 @@ std_msgs_generate_messages_py: cmake_check_build_system
 
 # fast build rule for target.
 std_msgs_generate_messages_py/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/std_msgs_generate_messages_py.dir/build.make LMS1xx/CMakeFiles/std_msgs_generate_messages_py.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/std_msgs_generate_messages_py.dir/build.make lmsxx/CMakeFiles/std_msgs_generate_messages_py.dir/build
 .PHONY : std_msgs_generate_messages_py/fast
 
 #=============================================================================
@@ -422,7 +422,7 @@ LMS1xx_node: cmake_check_build_system
 
 # fast build rule for target.
 LMS1xx_node/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/LMS1xx_node.dir/build.make LMS1xx/CMakeFiles/LMS1xx_node.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/LMS1xx_node.dir/build.make lmsxx/CMakeFiles/LMS1xx_node.dir/build
 .PHONY : LMS1xx_node/fast
 
 #=============================================================================
@@ -435,7 +435,7 @@ roscpp_generate_messages_lisp: cmake_check_build_system
 
 # fast build rule for target.
 roscpp_generate_messages_lisp/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/roscpp_generate_messages_lisp.dir/build.make LMS1xx/CMakeFiles/roscpp_generate_messages_lisp.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/roscpp_generate_messages_lisp.dir/build.make lmsxx/CMakeFiles/roscpp_generate_messages_lisp.dir/build
 .PHONY : roscpp_generate_messages_lisp/fast
 
 #=============================================================================
@@ -448,7 +448,7 @@ _run_tests_lms1xx: cmake_check_build_system
 
 # fast build rule for target.
 _run_tests_lms1xx/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/_run_tests_lms1xx.dir/build.make LMS1xx/CMakeFiles/_run_tests_lms1xx.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/_run_tests_lms1xx.dir/build.make lmsxx/CMakeFiles/_run_tests_lms1xx.dir/build
 .PHONY : _run_tests_lms1xx/fast
 
 #=============================================================================
@@ -461,7 +461,7 @@ run_tests_lms1xx_gtest_test_buffer: cmake_check_build_system
 
 # fast build rule for target.
 run_tests_lms1xx_gtest_test_buffer/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/run_tests_lms1xx_gtest_test_buffer.dir/build.make LMS1xx/CMakeFiles/run_tests_lms1xx_gtest_test_buffer.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/run_tests_lms1xx_gtest_test_buffer.dir/build.make lmsxx/CMakeFiles/run_tests_lms1xx_gtest_test_buffer.dir/build
 .PHONY : run_tests_lms1xx_gtest_test_buffer/fast
 
 #=============================================================================
@@ -474,7 +474,7 @@ sensor_msgs_generate_messages_nodejs: cmake_check_build_system
 
 # fast build rule for target.
 sensor_msgs_generate_messages_nodejs/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build.make LMS1xx/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build.make lmsxx/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build
 .PHONY : sensor_msgs_generate_messages_nodejs/fast
 
 #=============================================================================
@@ -487,7 +487,7 @@ sensor_msgs_generate_messages_eus: cmake_check_build_system
 
 # fast build rule for target.
 sensor_msgs_generate_messages_eus/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/sensor_msgs_generate_messages_eus.dir/build.make LMS1xx/CMakeFiles/sensor_msgs_generate_messages_eus.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/sensor_msgs_generate_messages_eus.dir/build.make lmsxx/CMakeFiles/sensor_msgs_generate_messages_eus.dir/build
 .PHONY : sensor_msgs_generate_messages_eus/fast
 
 #=============================================================================
@@ -500,7 +500,7 @@ _run_tests_lms1xx_roslaunch-check_launch_LMS1xx.launch: cmake_check_build_system
 
 # fast build rule for target.
 _run_tests_lms1xx_roslaunch-check_launch_LMS1xx.launch/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/_run_tests_lms1xx_roslaunch-check_launch_LMS1xx.launch.dir/build.make LMS1xx/CMakeFiles/_run_tests_lms1xx_roslaunch-check_launch_LMS1xx.launch.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/_run_tests_lms1xx_roslaunch-check_launch_LMS1xx.launch.dir/build.make lmsxx/CMakeFiles/_run_tests_lms1xx_roslaunch-check_launch_LMS1xx.launch.dir/build
 .PHONY : _run_tests_lms1xx_roslaunch-check_launch_LMS1xx.launch/fast
 
 #=============================================================================
@@ -513,7 +513,7 @@ std_msgs_generate_messages_cpp: cmake_check_build_system
 
 # fast build rule for target.
 std_msgs_generate_messages_cpp/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/std_msgs_generate_messages_cpp.dir/build.make LMS1xx/CMakeFiles/std_msgs_generate_messages_cpp.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/std_msgs_generate_messages_cpp.dir/build.make lmsxx/CMakeFiles/std_msgs_generate_messages_cpp.dir/build
 .PHONY : std_msgs_generate_messages_cpp/fast
 
 #=============================================================================
@@ -526,7 +526,7 @@ rosgraph_msgs_generate_messages_cpp: cmake_check_build_system
 
 # fast build rule for target.
 rosgraph_msgs_generate_messages_cpp/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build.make LMS1xx/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build.make lmsxx/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build
 .PHONY : rosgraph_msgs_generate_messages_cpp/fast
 
 #=============================================================================
@@ -539,7 +539,7 @@ roscpp_generate_messages_cpp: cmake_check_build_system
 
 # fast build rule for target.
 roscpp_generate_messages_cpp/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/roscpp_generate_messages_cpp.dir/build.make LMS1xx/CMakeFiles/roscpp_generate_messages_cpp.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/roscpp_generate_messages_cpp.dir/build.make lmsxx/CMakeFiles/roscpp_generate_messages_cpp.dir/build
 .PHONY : roscpp_generate_messages_cpp/fast
 
 #=============================================================================
@@ -552,7 +552,7 @@ rosgraph_msgs_generate_messages_nodejs: cmake_check_build_system
 
 # fast build rule for target.
 rosgraph_msgs_generate_messages_nodejs/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build.make LMS1xx/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build.make lmsxx/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build
 .PHONY : rosgraph_msgs_generate_messages_nodejs/fast
 
 #=============================================================================
@@ -565,7 +565,7 @@ roscpp_generate_messages_eus: cmake_check_build_system
 
 # fast build rule for target.
 roscpp_generate_messages_eus/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/roscpp_generate_messages_eus.dir/build.make LMS1xx/CMakeFiles/roscpp_generate_messages_eus.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/roscpp_generate_messages_eus.dir/build.make lmsxx/CMakeFiles/roscpp_generate_messages_eus.dir/build
 .PHONY : roscpp_generate_messages_eus/fast
 
 #=============================================================================
@@ -578,7 +578,7 @@ roscpp_generate_messages_py: cmake_check_build_system
 
 # fast build rule for target.
 roscpp_generate_messages_py/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/roscpp_generate_messages_py.dir/build.make LMS1xx/CMakeFiles/roscpp_generate_messages_py.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/roscpp_generate_messages_py.dir/build.make lmsxx/CMakeFiles/roscpp_generate_messages_py.dir/build
 .PHONY : roscpp_generate_messages_py/fast
 
 #=============================================================================
@@ -591,7 +591,7 @@ sensor_msgs_generate_messages_py: cmake_check_build_system
 
 # fast build rule for target.
 sensor_msgs_generate_messages_py/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make LMS1xx/CMakeFiles/sensor_msgs_generate_messages_py.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make lmsxx/CMakeFiles/sensor_msgs_generate_messages_py.dir/build
 .PHONY : sensor_msgs_generate_messages_py/fast
 
 #=============================================================================
@@ -604,7 +604,7 @@ geometry_msgs_generate_messages_nodejs: cmake_check_build_system
 
 # fast build rule for target.
 geometry_msgs_generate_messages_nodejs/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/build.make LMS1xx/CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/build.make lmsxx/CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/build
 .PHONY : geometry_msgs_generate_messages_nodejs/fast
 
 #=============================================================================
@@ -617,7 +617,7 @@ std_msgs_generate_messages_nodejs: cmake_check_build_system
 
 # fast build rule for target.
 std_msgs_generate_messages_nodejs/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/std_msgs_generate_messages_nodejs.dir/build.make LMS1xx/CMakeFiles/std_msgs_generate_messages_nodejs.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/std_msgs_generate_messages_nodejs.dir/build.make lmsxx/CMakeFiles/std_msgs_generate_messages_nodejs.dir/build
 .PHONY : std_msgs_generate_messages_nodejs/fast
 
 #=============================================================================
@@ -630,7 +630,7 @@ geometry_msgs_generate_messages_py: cmake_check_build_system
 
 # fast build rule for target.
 geometry_msgs_generate_messages_py/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/geometry_msgs_generate_messages_py.dir/build.make LMS1xx/CMakeFiles/geometry_msgs_generate_messages_py.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/geometry_msgs_generate_messages_py.dir/build.make lmsxx/CMakeFiles/geometry_msgs_generate_messages_py.dir/build
 .PHONY : geometry_msgs_generate_messages_py/fast
 
 #=============================================================================
@@ -643,7 +643,7 @@ run_tests_lms1xx: cmake_check_build_system
 
 # fast build rule for target.
 run_tests_lms1xx/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/run_tests_lms1xx.dir/build.make LMS1xx/CMakeFiles/run_tests_lms1xx.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/run_tests_lms1xx.dir/build.make lmsxx/CMakeFiles/run_tests_lms1xx.dir/build
 .PHONY : run_tests_lms1xx/fast
 
 #=============================================================================
@@ -656,7 +656,7 @@ run_tests_lms1xx_roslaunch-check: cmake_check_build_system
 
 # fast build rule for target.
 run_tests_lms1xx_roslaunch-check/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/run_tests_lms1xx_roslaunch-check.dir/build.make LMS1xx/CMakeFiles/run_tests_lms1xx_roslaunch-check.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/run_tests_lms1xx_roslaunch-check.dir/build.make lmsxx/CMakeFiles/run_tests_lms1xx_roslaunch-check.dir/build
 .PHONY : run_tests_lms1xx_roslaunch-check/fast
 
 #=============================================================================
@@ -669,7 +669,7 @@ _run_tests_lms1xx_roslaunch-check: cmake_check_build_system
 
 # fast build rule for target.
 _run_tests_lms1xx_roslaunch-check/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/_run_tests_lms1xx_roslaunch-check.dir/build.make LMS1xx/CMakeFiles/_run_tests_lms1xx_roslaunch-check.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/_run_tests_lms1xx_roslaunch-check.dir/build.make lmsxx/CMakeFiles/_run_tests_lms1xx_roslaunch-check.dir/build
 .PHONY : _run_tests_lms1xx_roslaunch-check/fast
 
 #=============================================================================
@@ -682,7 +682,7 @@ run_tests_lms1xx_gtest: cmake_check_build_system
 
 # fast build rule for target.
 run_tests_lms1xx_gtest/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/run_tests_lms1xx_gtest.dir/build.make LMS1xx/CMakeFiles/run_tests_lms1xx_gtest.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/run_tests_lms1xx_gtest.dir/build.make lmsxx/CMakeFiles/run_tests_lms1xx_gtest.dir/build
 .PHONY : run_tests_lms1xx_gtest/fast
 
 #=============================================================================
@@ -695,7 +695,7 @@ rosgraph_msgs_generate_messages_eus: cmake_check_build_system
 
 # fast build rule for target.
 rosgraph_msgs_generate_messages_eus/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build.make LMS1xx/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build.make lmsxx/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build
 .PHONY : rosgraph_msgs_generate_messages_eus/fast
 
 #=============================================================================
@@ -708,7 +708,7 @@ _run_tests_lms1xx_gtest: cmake_check_build_system
 
 # fast build rule for target.
 _run_tests_lms1xx_gtest/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/_run_tests_lms1xx_gtest.dir/build.make LMS1xx/CMakeFiles/_run_tests_lms1xx_gtest.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/_run_tests_lms1xx_gtest.dir/build.make lmsxx/CMakeFiles/_run_tests_lms1xx_gtest.dir/build
 .PHONY : _run_tests_lms1xx_gtest/fast
 
 #=============================================================================
@@ -721,7 +721,7 @@ geometry_msgs_generate_messages_eus: cmake_check_build_system
 
 # fast build rule for target.
 geometry_msgs_generate_messages_eus/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/geometry_msgs_generate_messages_eus.dir/build.make LMS1xx/CMakeFiles/geometry_msgs_generate_messages_eus.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/geometry_msgs_generate_messages_eus.dir/build.make lmsxx/CMakeFiles/geometry_msgs_generate_messages_eus.dir/build
 .PHONY : geometry_msgs_generate_messages_eus/fast
 
 #=============================================================================
@@ -734,7 +734,7 @@ _run_tests_lms1xx_gtest_test_buffer: cmake_check_build_system
 
 # fast build rule for target.
 _run_tests_lms1xx_gtest_test_buffer/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/_run_tests_lms1xx_gtest_test_buffer.dir/build.make LMS1xx/CMakeFiles/_run_tests_lms1xx_gtest_test_buffer.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/_run_tests_lms1xx_gtest_test_buffer.dir/build.make lmsxx/CMakeFiles/_run_tests_lms1xx_gtest_test_buffer.dir/build
 .PHONY : _run_tests_lms1xx_gtest_test_buffer/fast
 
 #=============================================================================
@@ -747,7 +747,7 @@ test_buffer: cmake_check_build_system
 
 # fast build rule for target.
 test_buffer/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/test_buffer.dir/build.make LMS1xx/CMakeFiles/test_buffer.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/test_buffer.dir/build.make lmsxx/CMakeFiles/test_buffer.dir/build
 .PHONY : test_buffer/fast
 
 #=============================================================================
@@ -760,7 +760,7 @@ LMS1xx: cmake_check_build_system
 
 # fast build rule for target.
 LMS1xx/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/LMS1xx.dir/build.make LMS1xx/CMakeFiles/LMS1xx.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/LMS1xx.dir/build.make lmsxx/CMakeFiles/LMS1xx.dir/build
 .PHONY : LMS1xx/fast
 
 #=============================================================================
@@ -773,7 +773,7 @@ roslint: cmake_check_build_system
 
 # fast build rule for target.
 roslint/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/roslint.dir/build.make LMS1xx/CMakeFiles/roslint.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/roslint.dir/build.make lmsxx/CMakeFiles/roslint.dir/build
 .PHONY : roslint/fast
 
 #=============================================================================
@@ -786,7 +786,7 @@ run_tests_lms1xx_roslaunch-check_launch_LMS1xx.launch: cmake_check_build_system
 
 # fast build rule for target.
 run_tests_lms1xx_roslaunch-check_launch_LMS1xx.launch/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/run_tests_lms1xx_roslaunch-check_launch_LMS1xx.launch.dir/build.make LMS1xx/CMakeFiles/run_tests_lms1xx_roslaunch-check_launch_LMS1xx.launch.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/run_tests_lms1xx_roslaunch-check_launch_LMS1xx.launch.dir/build.make lmsxx/CMakeFiles/run_tests_lms1xx_roslaunch-check_launch_LMS1xx.launch.dir/build
 .PHONY : run_tests_lms1xx_roslaunch-check_launch_LMS1xx.launch/fast
 
 #=============================================================================
@@ -799,7 +799,7 @@ clean_test_results_lms1xx: cmake_check_build_system
 
 # fast build rule for target.
 clean_test_results_lms1xx/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/clean_test_results_lms1xx.dir/build.make LMS1xx/CMakeFiles/clean_test_results_lms1xx.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/clean_test_results_lms1xx.dir/build.make lmsxx/CMakeFiles/clean_test_results_lms1xx.dir/build
 .PHONY : clean_test_results_lms1xx/fast
 
 #=============================================================================
@@ -812,7 +812,7 @@ geometry_msgs_generate_messages_cpp: cmake_check_build_system
 
 # fast build rule for target.
 geometry_msgs_generate_messages_cpp/fast:
-	$(MAKE) -f LMS1xx/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build.make LMS1xx/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build
+	$(MAKE) -f lmsxx/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build.make lmsxx/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build
 .PHONY : geometry_msgs_generate_messages_cpp/fast
 
 # Help Target

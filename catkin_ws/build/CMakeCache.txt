@@ -321,10 +321,10 @@ gtest_main_LIB_DEPENDS:STATIC=general;-lpthread;general;gtest;
 lib:FILEPATH=/opt/ros/kinetic/lib/libxmlrpcpp.so
 
 //Value Computed by CMake
-lms1xx_BINARY_DIR:STATIC=/home/shawn/workspace/ros_program/catkin_ws/build/LMS1xx
+lms1xx_BINARY_DIR:STATIC=/home/shawn/workspace/ros_program/catkin_ws/build/lmsxx
 
 //Value Computed by CMake
-lms1xx_SOURCE_DIR:STATIC=/home/shawn/workspace/ros_program/catkin_ws/src/LMS1xx
+lms1xx_SOURCE_DIR:STATIC=/home/shawn/workspace/ros_program/catkin_ws/src/lmsxx
 
 //The directory containing a CMake configuration file for message_runtime.
 message_runtime_DIR:PATH=/opt/ros/kinetic/share/message_runtime/cmake
