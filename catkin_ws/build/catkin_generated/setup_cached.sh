@@ -7,5 +7,6 @@
 # new environment variables
 
 # modified environment variables
-export PKG_CONFIG_PATH="/home/shawn/workspace/ros_program/catkin_ws/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
+export PATH="/opt/ros/kinetic/bin:/home/shawn/bin:/home/shawn/.local/bin:/home/shawn/bin:/home/shawn/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"
+export PKG_CONFIG_PATH="/home/shawn/catkin_ws/devel/lib/pkgconfig:/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig:/usr/local/lib/pkgconfig"
 export PWD="/home/shawn/workspace/ros_program/catkin_ws/build"
