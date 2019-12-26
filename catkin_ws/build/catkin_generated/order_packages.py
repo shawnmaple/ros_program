@@ -2,4 +2,4 @@
 source_root_dir = "/home/shawn/workspace/ros_program/catkin_ws/src"
 whitelisted_packages = "".split(';') if "" != "" else []
 blacklisted_packages = "".split(';') if "" != "" else []
-underlay_workspaces = "/home/shawn/catkin_ws/devel;/opt/ros/kinetic".split(';') if "/home/shawn/catkin_ws/devel;/opt/ros/kinetic" != "" else []
+underlay_workspaces = "/home/shawn/workspace/ros_program/catkin_ws/devel;/home/shawn/catkin_ws/devel;/opt/ros/kinetic".split(';') if "/home/shawn/workspace/ros_program/catkin_ws/devel;/home/shawn/catkin_ws/devel;/opt/ros/kinetic" != "" else []
